@@ -58,6 +58,7 @@ Contohnya, jika n = 3, maka isi perulangan dalam dijalankan sebanyak 3 × 3 = 9 
 Refleksi
 
 Salah satu kesalahan yang perlu diperhatikan dalam nested loop adalah penempatan perulangan dalam dan perintah print(). Jika indentasi tidak tepat, pola yang dihasilkan dapat berbeda dari yang diharapkan. Kesalahan tersebut diperbaiki dengan memastikan perulangan dalam berada di dalam perulangan luar dan print() untuk berpindah baris diletakkan pada posisi yang sesuai.
+Pengujian dilakukan kembali setelah perbaikan untuk memastikan program berjalan sesuai ketentuan.
 
 Kesimpulan
 
